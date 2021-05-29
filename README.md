@@ -48,10 +48,8 @@ You need to put **all your tests** in the `/my_gem/spec/` directory.
 
 Thank you [contributors](https://github.com/emilioeduardob/easy_parser/graphs/contributors)!
 
-<img src="http://platan.us/gravatar_with_text.png" alt="Platanus" width="250"/>
-
-Easy Parser is maintained by Emilio Blanco
+Easy Parser is maintained by Dotech Software
 
 ## License
 
-Easy Parser is © 2017 Emilio Blanco. It is free software and may be redistributed under the terms specified in the LICENSE file.
+Easy Parser is © 2021 Dotech Software. It is free software and may be redistributed under the terms specified in the LICENSE file.
